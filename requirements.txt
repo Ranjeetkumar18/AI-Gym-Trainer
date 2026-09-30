@@ -16,4 +16,4 @@ python-dotenv
 
 av
 
-opencv-python
+
